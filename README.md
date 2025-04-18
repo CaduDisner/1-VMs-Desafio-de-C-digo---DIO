@@ -3,8 +3,7 @@
 Olá, tudo bem? Espero que sim. Gostaria de me apresentar. Meu nome é Carlos Eduardo, eu tenho 19 anos de idade e sou estudante universitário da faculdade impacta de tecnologia estou cursando sistemas de informação, eu não tenho experiência nenhuma no mercado de trabalho, pois até o momento, não tive muitas oportunidades de mostrar minhas habilidades e meus conhecimentos, por isso, estou fazendo os cursos lá na DIO, para tentar somar certificações, ganhar mais conhecimento e se possível uma oportunidade de estagiar, e espero que eu tenha feito o desafio certo, e também, espero que gostem dos meus esforços. Muito Obrigado!!! ☺️☺️☺️
 
 _______________________________________________________________________________________________________________________________________________________________________________
-
-### Criação de uma Máquina Virtual para o Desafio de Código do curso de XP Inc. - Cloud com Inteligência Artificial da DIO:
+### Criação de uma Máquina Virtual para o Desafio de Código do curso da XP Inc. - Cloud com Inteligência Artificial da DIO:
 Existe 3 sessões respectivamente para configurar antes de se criar uma máquina virtual, dentre elas:
 
 -Básico

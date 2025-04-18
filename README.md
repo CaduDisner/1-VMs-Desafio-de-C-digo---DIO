@@ -5,15 +5,11 @@ Olá, tudo bem? Espero que sim. Gostaria de me apresentar. Meu nome é Carlos Ed
 _______________________________________________________________________________________________________________________________________________________________________________
 
 ### Criação de uma Máquina Virtual para o Desafio de Código do curso de XP Inc. - Cloud com Inteligência Artificial da DIO:
-Existe 5 sessões respectivamente para configurar antes de se criar uma máquina virtual, dentre elas:
+Existe 3 sessões respectivamente para configurar antes de se criar uma máquina virtual, dentre elas:
 
 -Básico
 
 -Gerenciamento
-
--Monitoramento
-
--Avançado
 
 -Revisar + Criar
 
@@ -47,4 +43,13 @@ ________________________________________________________________________________
 13-PASSO: Finalizando, temos que decidir se queremos as portas de entradas públicas ou não, eu optei pelas portas públicas e selecionei em específico a porta "HTTPS(443)", que pra quem não sabe muito, o HTTPS (Protocolo de Transferência de Hipertexto Seguro) é a versão segura do HTTP, utilizado para enviar dados entre um navegador e um site. Ele é criptografado para aumentar a segurança da transferência de dados, protegendo informações confidenciais. O HTTPS é amplamente utilizado na internet para garantir a segurança na troca de dados entre o navegador do usuário e o servidor web, e assim, encerramos a sessão básica.
 _______________________________________________________________________________________________________________________________________________________________________________
 ## GERENCIAMENTO
-1-PASSO: 
+1-PASSO: Aqui iremos habilitar a opção Microsoft Defender para Nuvem, ativando assim o plano básico gratuitamente, caso não seja assinante
+
+2-PASSO: Depois iremos ativar o desligamento automático para aumentar o ciclo de vida da VM, assim, podendo colocar qualquer horário que desejar eu optei escolher a "00:00" e embaixo é so confirmar o seu email.
+
+3-PASSO: Depois, em opções de oerquestração de patch, deixar padrão, iremos revisar e finalizar a sessão de gerenciamento e ir para a próxima sessão.
+_______________________________________________________________________________________________________________________________________________________________________________
+## REVISAR + CRIAR
+
+#### E POR FIM AMIGOS(AS), IREMOS APERTAR EM REVISAR + CRIAR PARA FINALIZAR AS NOSSAS CONFIGURAÇÕES PARA A CRIAÇÃO DA NOSSA 1°MÁQUINA VIRTUAL, ELA VAI REVISAR E VALIDAR NOSSAS CONFIGURAÇÕES APÓS ISSO, SÓ APERTAR EM CRIAR E TAN DAN, NOSSA PREPARAÇÃO FOI UM SUCESSO!!! 🎉🎉🎉
+_______________________________________________________________________________________________________________________________________________________________________________

@@ -47,3 +47,4 @@ ________________________________________________________________________________
 13-PASSO: Finalizando, temos que decidir se queremos as portas de entradas públicas ou não, eu optei pelas portas públicas e selecionei em específico a porta "HTTPS(443)", que pra quem não sabe muito, o HTTPS (Protocolo de Transferência de Hipertexto Seguro) é a versão segura do HTTP, utilizado para enviar dados entre um navegador e um site. Ele é criptografado para aumentar a segurança da transferência de dados, protegendo informações confidenciais. O HTTPS é amplamente utilizado na internet para garantir a segurança na troca de dados entre o navegador do usuário e o servidor web, e assim, encerramos a sessão básica.
 _______________________________________________________________________________________________________________________________________________________________________________
 ## GERENCIAMENTO
+1-PASSO: 
